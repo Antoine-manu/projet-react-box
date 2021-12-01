@@ -1,0 +1,27 @@
+.element{
+
+ &__button{
+width: 100%;
+display: flex;
+justify-content: space-around;
+flex-direction: row;
+ }   
+ &__title{
+
+ }
+ &__table{
+ }
+}
+.scrollable{
+    
+    height: 300px;
+    overflow: auto;
+}
+tr{
+    height: 50px !important;
+}
+.boxchoice{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}

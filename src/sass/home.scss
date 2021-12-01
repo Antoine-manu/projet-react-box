@@ -1,0 +1,28 @@
+.form{
+    width: 50%;
+    margin: auto;
+    margin-top: 25px;
+    text-align: center;
+}
+.advise{
+    color: gray;
+    font-style: italic;
+}
+.prefaits{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    &__select{
+        width:80% ;
+    }
+}
+.formdisplay{
+    display: flex;
+    flex-direction: column;
+}
+.formcol{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

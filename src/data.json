@@ -1,0 +1,44 @@
+{
+    "data" : [
+        {
+            "id" : 1,
+            "width" : 2.5,
+            "name" : "Refrigirateur"
+        },
+        {
+            "id" : 2,
+            "width" : 0.5,
+            "name" : "Televiseur"
+        },
+        {
+            "id" : 3,
+            "width" : 0.3,
+            "name" : "Chaise"
+        },
+        {
+            "id" : 4,
+            "width" : 1,
+            "name" : "Table"
+        },
+        {
+            "id" : 5,
+            "width" : 1.6,
+            "name" : "Bureau"
+        },
+        {
+            "id" : 6,
+            "width" : 2,
+            "name" : "Commode"
+        },
+        {
+            "id" : 7,
+            "width" : 1.8,
+            "name" : "Lave-linge"
+        },
+        {
+            "id" : 8,
+            "width" : 1,
+            "name" : "Lave-vaisselle"
+        }
+    ]
+}

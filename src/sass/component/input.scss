@@ -1,0 +1,25 @@
+.formdisplay{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: center;
+
+    &__field{
+        display: flex;
+    flex-direction: row;
+    align-self: center;
+        &__input{
+
+        }
+        &__radio{
+            justify-content: center;
+            align-self: center;
+            width: 30%;
+            display: flex;
+    flex-direction: row;
+            margin-left: 10px;
+        }
+    }
+    
+}
